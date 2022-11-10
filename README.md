@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fortyMiles
 - 👀 I’m interested in solving artificial intelligence problems by pragmatic and efficient ways. I am also interesting in how to make AI models more robust and explainable. 
-- 🌱 I’m currently learning neuralsymbolic. 
+- 🌱 I’m currently learning neuralsymbolic, multi-agent reinforcement learning
 - 💞️ I’m looking to collaborate on neuralsymbolic, reinforcement learning.. 
 - 📫 How to reach me you can send me email: marvin.gao.cs@gmail.com 
 
